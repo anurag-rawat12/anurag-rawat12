@@ -11,11 +11,27 @@
 
 ---
 
-## 🚀 Languages and Tools I Use  
+<h2 align="center">🚀 Languages and Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,tailwind,nodejs,mongodb,nextjs,appwrite,linux,git,vercel,express,render,canva,threejs,redux,vite,figma,reactrouter&perline=6)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,nodejs,mongodb,nextjs,appwrite&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vercel,express,linux,redux,vite&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman&perline=6" />
+</p>
 
 ---
+
+
 
 
 <h2>📌 Notable Projects</h2>
